@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648791028373",
+    "project_id": "icm-10-firebase-bdbe9",
+    "storage_bucket": "icm-10-firebase-bdbe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648791028373:android:d0a51f2bf5c7189951a19c",
+        "android_client_info": {
+          "package_name": "com.icm2430.ejemploc10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAD62hQv7QVXwrS6jFrNCwGPi4rJcHVyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648791028373:android:3570c38f1c38df3851a19c",
+        "android_client_info": {
+          "package_name": "com.icm2430.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAD62hQv7QVXwrS6jFrNCwGPi4rJcHVyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
